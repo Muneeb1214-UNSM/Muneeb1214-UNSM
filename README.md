@@ -26,7 +26,7 @@
 
 ## 👤 &nbsp;About Me
 
-<img align="right" width="260" src="assets/profile.jpg" style="border-radius: 8px;"/>
+<img align="right" width="260" src="https://raw.githubusercontent.com/Muneeb1214-UNSM/Muneeb1214-UNSM/main/assets/profile.jpg"/>
 
 🎓 &nbsp;**BS Software Engineering** student, based in Pakistan
 <br/>
