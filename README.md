@@ -189,12 +189,14 @@ My personal portfolio website, showcasing my work and background.
 ## 🐍 &nbsp;Contribution Snake
 
 <div align="center">
-<sub>My contribution activity, visualized — the snake grows by "eating" each active day on the graph below.</sub>
+<sub>My contribution activity, visualized — the snake grows by "eating" each active square on the graph.</sub>
 </div>
 
 <br/>
 
-<div align="center">
+<table align="center" width="100%">
+<tr>
+<td align="center" style="padding:20px;">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muneeb1214-UNSM/Muneeb1214-UNSM/output/github-contribution-grid-snake-dark.svg" />
@@ -202,9 +204,19 @@ My personal portfolio website, showcasing my work and background.
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Muneeb1214-UNSM/Muneeb1214-UNSM/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Auto--refreshes-every%206h-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Theme-Adaptive%20Light%2FDark-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Powered%20by-GitHub%20Actions-7C3AED?style=flat-square&logo=githubactions&logoColor=white"/>
+
 <br/><br/>
 
-<sub>⚙️ Auto-refreshes every 6 hours via GitHub Actions &nbsp;•&nbsp; adapts to your GitHub light/dark theme &nbsp;•&nbsp; setup steps in <code>SNAKE_SETUP.md</code></sub>
+<sub>🟩 Each square = one day of activity &nbsp;•&nbsp; the snake's path traces my commit history over the past year &nbsp;•&nbsp; setup steps in <code>SNAKE_SETUP.md</code></sub>
 
 </div>
 
@@ -215,14 +227,29 @@ My personal portfolio website, showcasing my work and background.
 ## 🏆 &nbsp;Achievements
 
 <div align="center">
-<sub>Milestones earned across GitHub — updated automatically as activity grows.</sub>
+<sub>Milestones earned across GitHub for real activity — pull requests, code reviews, and consistent contributions.</sub>
 </div>
 
 <br/>
 
-<div align="center">
+<table align="center" width="100%">
+<tr>
+<td align="center" style="padding:20px;">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Muneeb1214-UNSM&theme=dracula&no-frame=true&no-bg=false&row=2&column=4&margin-w=15&margin-h=15&title_color=7C3AED&icon_color=7C3AED&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Pull%20Shark-Merged%20PRs-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Quickdraw-Fast%20Issue%2FPR%20Close-7C3AED?style=flat-square"/>
+
+<br/><br/>
+
+<sub>🥇 Ranked from Bronze to Secret tier &nbsp;•&nbsp; unlocked automatically as GitHub activity grows &nbsp;•&nbsp; refreshes on every profile visit</sub>
 
 </div>
 
