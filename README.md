@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=260&section=header&text=MUNEEB%20KHAN&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%E2%80%A2%20Python%20Developer%20%E2%80%A2%20ML%20Enthusiast&descAlignY=52&descAlign=50&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=1600&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=60&lines=Turning+ideas+into+code+%F0%9F%92%BB;Learning+Machine+Learning+one+model+at+a+time+%F0%9F%A7%A0;Exploring+the+world+of+Agentic+AI+%F0%9F%A4%96;Always+building%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1600&color=7C3AED&center=true&vCenter=true&width=600&height=45&lines=Turning+ideas+into+code+%F0%9F%92%BB;Learning+Machine+Learning+one+model+at+a+time+%F0%9F%A7%A0;Exploring+the+world+of+Agentic+AI+%F0%9F%A4%96;Always+building%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -34,7 +34,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=1400&color=C9D1D9&background=0D111700&center=false&vCenter=true&multiline=true&repeat=true&width=480&height=140&lines=%F0%9F%94%AD++Currently+building+%E2%86%92+Agentic+AI+(Nexus_Ai);%F0%9F%8C%B1++Currently+learning+%E2%86%92+Machine+Learning;%F0%9F%92%A1++Core+stack+%E2%86%92+Python;%F0%9F%A4%9D++Open+to+%E2%86%92+Freelance+%26+collabs;%F0%9F%93%AB++Reach+me+%E2%86%92+LinkedIn+(below)" alt="About typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2200&pause=1400&color=C9D1D9&center=false&vCenter=true&width=440&height=30&lines=%F0%9F%94%AD++Currently+building+%E2%86%92+Agentic+AI+(Nexus_Ai);%F0%9F%8C%B1++Currently+learning+%E2%86%92+Machine+Learning;%F0%9F%92%A1++Core+stack+%E2%86%92+Python;%F0%9F%A4%9D++Open+to+%E2%86%92+Freelance+%26+collabs;%F0%9F%93%AB++Reach+me+%E2%86%92+LinkedIn+(below)" alt="About typing" />
 
 <br/>
 
