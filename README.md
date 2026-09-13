@@ -1,10 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=250&section=header&text=MUNEEB%20KHAN&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Python%20Developer%20%E2%80%A2%20ML%20Enthusiast&descAlignY=55&descAlign=50&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=260&section=header&text=MUNEEB%20KHAN&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%E2%80%A2%20Python%20Developer%20%E2%80%A2%20ML%20Enthusiast&descAlignY=52&descAlign=50&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=55&lines=Turning+ideas+into+code+%F0%9F%92%BB;Learning+Machine+Learning+one+model+at+a+time+%F0%9F%A7%A0;Exploring+the+world+of+Agentic+AI+%F0%9F%A4%96;Always+building%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Turning+ideas+into+code+%F0%9F%92%BB;Learning+Machine+Learning+one+model+at+a+time+%F0%9F%A7%A0;Exploring+the+world+of+Agentic+AI+%F0%9F%A4%96;Always+building%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://img.shields.io/badge/📍-Pakistan-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/github/followers/Muneeb1214-UNSM?style=flat-square&color=7C3AED&label=Followers&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Muneeb1214-UNSM&label=Public%20Repos&query=%24.public_repos&color=7C3AED&style=flat-square&logo=github&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=Muneeb1214-UNSM&label=Profile%20Views&color=7C3AED&style=flat-square"/>
 
 <br/><br/>
 
@@ -12,10 +17,6 @@
 <a href="https://www.linkedin.com/in/muneeb-haider-7614672a8"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/muneebhaider22/?hl=en"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.facebook.com/profile.php?id=100095384056559"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Muneeb1214-UNSM&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="profile views"/>
 
 </div>
 
@@ -25,15 +26,25 @@
 
 ## 👤 &nbsp;About Me
 
-<img align="right" width="280" src="https://cdn.jsdelivr.net/gh/farheenayy33/farheenayy33/farheen%20coding.gif" />
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-- 🎓 &nbsp;**BS Software Engineering** student based in Pakistan
-- 🐍 &nbsp;Python developer, currently deep-diving into **Machine Learning**
-- 🤖 &nbsp;Building projects in the **Agentic AI** space
-- 💼 &nbsp;Working as a **Freelancer**
-- 🌱 &nbsp;Philosophy: *build real things, not just tutorials*
-- 💬 &nbsp;Ask me about Python, data preprocessing, or ML basics
-- 📫 &nbsp;Best way to reach me: **[LinkedIn](https://www.linkedin.com/in/muneeb-haider-7614672a8)**
+🎓 &nbsp;**BS Software Engineering** student, based in Pakistan
+<br/>
+💼 &nbsp;Currently working as a **Freelancer**
+
+<br/>
+
+```
+🔭  Currently building   →  Agentic AI projects (Nexus_Ai)
+🌱  Currently learning   →  Machine Learning & model evaluation
+💡  Core stack           →  Python
+🤝  Open to              →  Freelance work & collaborations
+📫  Reach me at          →  LinkedIn (link below)
+```
+
+<br/>
+
+> *"Build real things, not just tutorials."*
 
 <br clear="right"/>
 
