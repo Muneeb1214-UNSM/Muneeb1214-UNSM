@@ -65,27 +65,101 @@
 ## 📌 &nbsp;Featured Projects
 
 <div align="center">
+<sub>A selection of projects across <b>AI / Machine Learning</b> and <b>core Python</b> — click any card to explore the code.</sub>
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🤖 &nbsp;AI & Machine Learning
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 <a href="https://github.com/Muneeb1214-UNSM/Nexus_Ai">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muneeb1214-UNSM&repo=Nexus_Ai&title_color=7C3AED&icon_color=7C3AED&bg_color=0D1117&text_color=c9d1d9&border_color=7C3AED&hide_border=false" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muneeb1214-UNSM&repo=Nexus_Ai&title_color=7C3AED&icon_color=7C3AED&bg_color=0D1117&text_color=c9d1d9&border_color=7C3AED&hide_border=false" />
 </a>
+
+**Nexus AI** — a workspace for building **Agentic AI** systems and experimenting with autonomous, tool-using agents.
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Agentic%20AI-7C3AED?style=flat-square"/>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/Muneeb1214-UNSM/Machine_Learning">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muneeb1214-UNSM&repo=Machine_Learning&title_color=7C3AED&icon_color=7C3AED&bg_color=0D1117&text_color=c9d1d9&border_color=7C3AED&hide_border=false" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muneeb1214-UNSM&repo=Machine_Learning&title_color=7C3AED&icon_color=7C3AED&bg_color=0D1117&text_color=c9d1d9&border_color=7C3AED&hide_border=false" />
 </a>
+
+**Machine Learning** — hands-on notebooks covering core ML concepts, model building, and evaluation.
+<br/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+### 🐍 &nbsp;Python Fundamentals
+
+<table>
+<tr>
+<td width="33%" valign="top">
 
 <a href="https://github.com/Muneeb1214-UNSM/python-projects">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muneeb1214-UNSM&repo=python-projects&title_color=7C3AED&icon_color=7C3AED&bg_color=0D1117&text_color=c9d1d9&border_color=7C3AED&hide_border=false" />
-</a>
-<a href="https://github.com/Muneeb1214-UNSM/python-journey">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muneeb1214-UNSM&repo=python-journey&title_color=7C3AED&icon_color=7C3AED&bg_color=0D1117&text_color=c9d1d9&border_color=7C3AED&hide_border=false" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muneeb1214-UNSM&repo=python-projects&title_color=7C3AED&icon_color=7C3AED&bg_color=0D1117&text_color=c9d1d9&border_color=7C3AED&hide_border=false" />
 </a>
 
-<a href="https://github.com/Muneeb1214-UNSM/portfolio">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muneeb1214-UNSM&repo=portfolio&title_color=7C3AED&icon_color=7C3AED&bg_color=0D1117&text_color=c9d1d9&border_color=7C3AED&hide_border=false" />
+A collection of practical Python mini-projects.
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+</td>
+<td width="33%" valign="top">
+
+<a href="https://github.com/Muneeb1214-UNSM/python-journey">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muneeb1214-UNSM&repo=python-journey&title_color=7C3AED&icon_color=7C3AED&bg_color=0D1117&text_color=c9d1d9&border_color=7C3AED&hide_border=false" />
 </a>
+
+Daily practice log documenting my Python learning journey.
+<br/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+
+</td>
+<td width="33%" valign="top">
+
 <a href="https://github.com/Muneeb1214-UNSM/python-code">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muneeb1214-UNSM&repo=python-code&title_color=7C3AED&icon_color=7C3AED&bg_color=0D1117&text_color=c9d1d9&border_color=7C3AED&hide_border=false" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muneeb1214-UNSM&repo=python-code&title_color=7C3AED&icon_color=7C3AED&bg_color=0D1117&text_color=c9d1d9&border_color=7C3AED&hide_border=false" />
 </a>
+
+Where it all started — my very first Git repository.
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+### 🌐 &nbsp;Web
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Muneeb1214-UNSM/portfolio">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muneeb1214-UNSM&repo=portfolio&title_color=7C3AED&icon_color=7C3AED&bg_color=0D1117&text_color=c9d1d9&border_color=7C3AED&hide_border=false" />
+</a>
+
+My personal portfolio website, showcasing my work and background.
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/Live%20Site-36BCF7?style=flat-square&logo=vercel&logoColor=white"/>
+
+<a href="https://muneebhaider.netlify.app/">→ View live</a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -115,10 +189,22 @@
 ## 🐍 &nbsp;Contribution Snake
 
 <div align="center">
+<sub>My contribution activity, visualized — the snake grows by "eating" each active day on the graph below.</sub>
+</div>
 
-<img src="https://raw.githubusercontent.com/Muneeb1214-UNSM/Muneeb1214-UNSM/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<br/>
 
-<sub>⚙️ Animated snake that "eats" your contribution graph — powered by a GitHub Action (setup steps in <code>SNAKE_SETUP.md</code> below)</sub>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muneeb1214-UNSM/Muneeb1214-UNSM/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muneeb1214-UNSM/Muneeb1214-UNSM/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Muneeb1214-UNSM/Muneeb1214-UNSM/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+<br/><br/>
+
+<sub>⚙️ Auto-refreshes every 6 hours via GitHub Actions &nbsp;•&nbsp; adapts to your GitHub light/dark theme &nbsp;•&nbsp; setup steps in <code>SNAKE_SETUP.md</code></sub>
 
 </div>
 
@@ -126,10 +212,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
 
-## 🏆 &nbsp;Trophies
+## 🏆 &nbsp;Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Muneeb1214-UNSM&theme=radical&no-frame=true&row=1&column=6&title_color=7C3AED&border_radius=10" />
+<sub>Milestones earned across GitHub — updated automatically as activity grows.</sub>
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Muneeb1214-UNSM&theme=dracula&no-frame=true&no-bg=false&row=2&column=4&margin-w=15&margin-h=15&title_color=7C3AED&icon_color=7C3AED&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+
 </div>
 
 <br/>
