@@ -13,10 +13,10 @@
 
 <br/><br/>
 
-<a href="https://muneebhaider.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/muneeb-haider-7614672a8"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/muneebhaider22/?hl=en"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.facebook.com/profile.php?id=100095384056559"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/muneeb-haider-7614672a8"><img width="46" src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=46&shape=circle&reverseBackground=true" title="LinkedIn"/></a>
+<a href="https://www.instagram.com/muneebhaider22/?hl=en"><img width="46" src="https://readmecodegen.vercel.app/api/social-icon?name=instagram&size=46&shape=circle&reverseBackground=true" title="Instagram"/></a>
+<a href="https://www.facebook.com/profile.php?id=100095384056559"><img width="46" src="https://readmecodegen.vercel.app/api/social-icon?name=facebook&size=46&shape=circle&reverseBackground=true" title="Facebook"/></a>
+<a href="https://muneebhaider.netlify.app/"><img width="46" src="https://readmecodegen.vercel.app/api/social-icon?name=netlify&size=46&shape=circle&reverseBackground=true" title="Portfolio"/></a>
 
 </div>
 
