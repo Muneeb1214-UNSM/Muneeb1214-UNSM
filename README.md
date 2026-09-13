@@ -189,14 +189,10 @@ My personal portfolio website, showcasing my work and background.
 ## 🐍 &nbsp;Contribution Snake
 
 <div align="center">
-<sub>My contribution activity, visualized — the snake grows by "eating" each active square on the graph.</sub>
-</div>
 
-<br/>
+<sub>Each square below is a day of activity — the snake traces my commit history across the past year.</sub>
 
-<table align="center" width="100%">
-<tr>
-<td align="center" style="padding:20px;">
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muneeb1214-UNSM/Muneeb1214-UNSM/output/github-contribution-grid-snake-dark.svg" />
@@ -204,19 +200,9 @@ My personal portfolio website, showcasing my work and background.
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Muneeb1214-UNSM/Muneeb1214-UNSM/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
-</td>
-</tr>
-</table>
+<br/>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Auto--refreshes-every%206h-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Theme-Adaptive%20Light%2FDark-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Powered%20by-GitHub%20Actions-7C3AED?style=flat-square&logo=githubactions&logoColor=white"/>
-
-<br/><br/>
-
-<sub>🟩 Each square = one day of activity &nbsp;•&nbsp; the snake's path traces my commit history over the past year &nbsp;•&nbsp; setup steps in <code>SNAKE_SETUP.md</code></sub>
+<sub><i>Auto-refreshes every 6 hours via GitHub Actions · adapts to light/dark theme</i></sub>
 
 </div>
 
