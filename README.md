@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Turning+ideas+into+code+%F0%9F%92%BB;Learning+Machine+Learning+one+model+at+a+time+%F0%9F%A7%A0;Exploring+the+world+of+Agentic+AI+%F0%9F%A4%96;Always+building%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Turning+ideas+into+code+%F0%9F%92%BB;Learning+Machine+Learning+one+model+at+a+time+%F0%9F%A7%A0;Exploring+the+world+of+Agentic+AI+%F0%9F%A4%96;Always+building%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -79,7 +79,7 @@
 <td width="50%" valign="top">
 
 <a href="https://github.com/Muneeb1214-UNSM/Nexus_Ai">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muneeb1214-UNSM&repo=Nexus_Ai&title_color=7C3AED&icon_color=7C3AED&bg_color=0D1117&text_color=c9d1d9&border_color=7C3AED&hide_border=false" />
+<img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=Muneeb1214-UNSM&repo=Nexus_Ai&title_color=7C3AED&icon_color=7C3AED&bg_color=0D1117&text_color=c9d1d9&border_color=7C3AED&hide_border=false" />
 </a>
 
 **Nexus AI** — a workspace for building **Agentic AI** systems and experimenting with autonomous, tool-using agents.
@@ -90,7 +90,7 @@
 <td width="50%" valign="top">
 
 <a href="https://github.com/Muneeb1214-UNSM/Machine_Learning">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muneeb1214-UNSM&repo=Machine_Learning&title_color=7C3AED&icon_color=7C3AED&bg_color=0D1117&text_color=c9d1d9&border_color=7C3AED&hide_border=false" />
+<img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=Muneeb1214-UNSM&repo=Machine_Learning&title_color=7C3AED&icon_color=7C3AED&bg_color=0D1117&text_color=c9d1d9&border_color=7C3AED&hide_border=false" />
 </a>
 
 **Machine Learning** — hands-on notebooks covering core ML concepts, model building, and evaluation.
@@ -108,7 +108,7 @@
 <td width="33%" valign="top">
 
 <a href="https://github.com/Muneeb1214-UNSM/python-projects">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muneeb1214-UNSM&repo=python-projects&title_color=7C3AED&icon_color=7C3AED&bg_color=0D1117&text_color=c9d1d9&border_color=7C3AED&hide_border=false" />
+<img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=Muneeb1214-UNSM&repo=python-projects&title_color=7C3AED&icon_color=7C3AED&bg_color=0D1117&text_color=c9d1d9&border_color=7C3AED&hide_border=false" />
 </a>
 
 A collection of practical Python mini-projects.
@@ -119,7 +119,7 @@ A collection of practical Python mini-projects.
 <td width="33%" valign="top">
 
 <a href="https://github.com/Muneeb1214-UNSM/python-journey">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muneeb1214-UNSM&repo=python-journey&title_color=7C3AED&icon_color=7C3AED&bg_color=0D1117&text_color=c9d1d9&border_color=7C3AED&hide_border=false" />
+<img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=Muneeb1214-UNSM&repo=python-journey&title_color=7C3AED&icon_color=7C3AED&bg_color=0D1117&text_color=c9d1d9&border_color=7C3AED&hide_border=false" />
 </a>
 
 Daily practice log documenting my Python learning journey.
@@ -130,7 +130,7 @@ Daily practice log documenting my Python learning journey.
 <td width="33%" valign="top">
 
 <a href="https://github.com/Muneeb1214-UNSM/python-code">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muneeb1214-UNSM&repo=python-code&title_color=7C3AED&icon_color=7C3AED&bg_color=0D1117&text_color=c9d1d9&border_color=7C3AED&hide_border=false" />
+<img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=Muneeb1214-UNSM&repo=python-code&title_color=7C3AED&icon_color=7C3AED&bg_color=0D1117&text_color=c9d1d9&border_color=7C3AED&hide_border=false" />
 </a>
 
 Where it all started — my very first Git repository.
@@ -148,7 +148,7 @@ Where it all started — my very first Git repository.
 <td width="50%" valign="top">
 
 <a href="https://github.com/Muneeb1214-UNSM/portfolio">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muneeb1214-UNSM&repo=portfolio&title_color=7C3AED&icon_color=7C3AED&bg_color=0D1117&text_color=c9d1d9&border_color=7C3AED&hide_border=false" />
+<img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=Muneeb1214-UNSM&repo=portfolio&title_color=7C3AED&icon_color=7C3AED&bg_color=0D1117&text_color=c9d1d9&border_color=7C3AED&hide_border=false" />
 </a>
 
 My personal portfolio website, showcasing my work and background.
@@ -171,14 +171,14 @@ My personal portfolio website, showcasing my work and background.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Muneeb1214-UNSM&show_icons=true&title_color=7C3AED&icon_color=7C3AED&bg_color=0D1117&text_color=c9d1d9&border_color=7C3AED&hide_border=false&count_private=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muneeb1214-UNSM&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&background=0D1117&border=7C3AED&hide_border=false" height="170"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Muneeb1214-UNSM&show_icons=true&title_color=7C3AED&icon_color=7C3AED&bg_color=0D1117&text_color=c9d1d9&border_color=7C3AED&hide_border=false&count_private=true" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=Muneeb1214-UNSM&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&background=0D1117&border=7C3AED&hide_border=false" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeb1214-UNSM&layout=compact&title_color=7C3AED&text_color=c9d1d9&bg_color=0D1117&border_color=7C3AED&hide_border=false" height="170"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Muneeb1214-UNSM&layout=compact&title_color=7C3AED&text_color=c9d1d9&bg_color=0D1117&border_color=7C3AED&hide_border=false" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muneeb1214-UNSM&bg_color=0D1117&color=7C3AED&line=7C3AED&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="https://ghchart.rshah.org/7C3AED/Muneeb1214-UNSM" width="95%"/>
 
 </div>
 
@@ -213,29 +213,12 @@ My personal portfolio website, showcasing my work and background.
 ## 🏆 &nbsp;Achievements
 
 <div align="center">
-<sub>Milestones earned across GitHub for real activity — pull requests, code reviews, and consistent contributions.</sub>
-</div>
 
-<br/>
-
-<table align="center" width="100%">
-<tr>
-<td align="center" style="padding:20px;">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Muneeb1214-UNSM&theme=dracula&no-frame=true&no-bg=false&row=2&column=4&margin-w=15&margin-h=15&title_color=7C3AED&icon_color=7C3AED&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Pull%20Shark-Merged%20PRs-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Quickdraw-Fast%20Issue%2FPR%20Close-7C3AED?style=flat-square"/>
+<sub>Milestones earned on GitHub for real activity — merged pull requests, fast issue turnaround, and consistent contributions.</sub>
 
 <br/><br/>
 
-<sub>🥇 Ranked from Bronze to Secret tier &nbsp;•&nbsp; unlocked automatically as GitHub activity grows &nbsp;•&nbsp; refreshes on every profile visit</sub>
+<img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=Muneeb1214-UNSM&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=12&title_color=7C3AED&icon_color=7C3AED&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 
 </div>
 
